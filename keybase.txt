@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/scarytom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://netmelody.org
+  * I am scarytom (https://keybase.io/scarytom) on keybase.
+  * I have a public key with fingerprint C819 4255 49F4 4CD5 8DCC  8BB7 E409 354C FB27 2F39
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c819425549f44cd58dcc8bb7e409354cfb272f39",
+            "host": "keybase.io",
+            "key_id": "e409354cfb272f39",
+            "uid": "196b8d2c7e68dbd924ecd010fb391a00",
+            "username": "scarytom"
+        },
+        "service": {
+            "hostname": "netmelody.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408181272,
+    "expire_in": 157680000,
+    "prev": "9f286690e1eb960ff8fdf5c3da211b3f387c22a67762836448790f5a9c50c77d",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.3.1
+Comment: https://keybase.io/crypto
+
+yMHqAnicbZFbSBRRGMd3WzNb0AILLC1tShDcbO6XhQosSqjESAjC2mbOnFmH3Jlt
+dnZtM8vSwIfCbr4UaogVvlRGUWCXVdwUtlBJI3KLrY3CirxVRER1Ruyt83I43/f7
+/7/vz+lLd9ic9s7I3SX746FGeywyHbTtmliTVYNJuhzG3DXYATh7KarmhYbfUDUT
+c2OAJwSaZBhaUGgayAwvA8BLEgdpXKAYGigSyZEKJWAurFIPWApkI4kBWKTqqIYe
+HlVG1f/wwdkGIbASL5OAgywvS7JA0hDIOIErEiUQIo5bYAAamuiDiA4A0Qibug+r
+dWGoGlIBtHa2Rs8RGjR9sApFKtINLxL7Dd3UgV6FWpWm6XdbSjPst9BqKHnmTDyS
+qskoOBKEoBFQdQ1zE4gEpmq5EjTOEzyBVndh8JBfNaBHtQiGY3kcHWsMDCFLQSF5
+lhVwSEBJYHFF4RVZYQAliyRBSJRC8RwgSZHlOJbkKZameU7AFUYUAIMDjpMxK9ZB
+TcfcNFpT9FqRVa8mmkEDYrW9kYoUm91pS50/z/o6m3Ph4n8f+vPhgj/bi1+XxKK/
+hxqG2iZj75vLpzfCd/ThgeGc/M/rHc+liVgTKPm67nhHsgWP38+078lNfBjcnH8+
+8/SANkUfHTP6pe4uUHhnmGvtG71V/KXzQnJTsOsXuTN5TvCsCjsT9sLRZR/73XW7
+GxN9V5aG63tyo7G1afeuZZ/N/ZZ3Kf+JmSoMlkzXXX3R1vjjWLwUvmwvcGV07D0y
+Vj8cN9ulvMelU7B+5JHee/lGQ/WbwazoiXTHyu5XG7a1bJkZqGw6leLY8T3r2b4z
+42nNiWhixdubHSOtORXZF6mZjNWTvtvLnTkFE/yn8kX+Id9kLZny9PrWzJ7Ig5Nl
+5vhosmyEif4Flh8daw==
+=UJPR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scarytom
+
+==================================================================
